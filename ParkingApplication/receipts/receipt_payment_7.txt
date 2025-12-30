@@ -1,0 +1,14 @@
+===== PARKING RECEIPT =====
+PaymentId: 7
+Reference: MOCK-b059cf6c-8ee5-4d91-bf63-bdecd2dcd769
+Status: SUCCESS
+Method: MOCK
+Amount: 10 RON
+PaidAt: 2025-12-30 16:34:45
+
+User: admin
+ReservationId: 7
+ReservationStatus: PAID
+Hours: 2
+Spot: P004 (Zona A)
+===========================
